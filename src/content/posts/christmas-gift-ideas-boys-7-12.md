@@ -13,7 +13,7 @@ tags:
 
 Looking for Christmas gifts for boys ages 7-12? This age is hard to shop for. They've outgrown little-kid toys, but you'd rather not hand over another screen. These five hands-on gift ideas are active and creative, so they're easy to wrap and fun to open.
 
-![Boy Opening christmas gift](images/christmas-gifts-boys-cover.jpg)
+![Boy Opening christmas gift](images/christmas-gifts-boys-cover.png)
 
 
 ## 1. SCRIB3D P1 3D Printing Pen: Best for Creative Kids
